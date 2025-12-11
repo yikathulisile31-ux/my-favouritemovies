@@ -1,0 +1,15 @@
+#title{
+    color: red;
+}
+
+#Description{
+    color: red;
+}
+
+#FirstOne{
+    border-width: 3px;
+    border-radius: 5px;
+    border-style: solid;
+    border-color: red;
+    background-color: blue;
+}
