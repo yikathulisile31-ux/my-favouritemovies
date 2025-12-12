@@ -1,7 +1,6 @@
 body{
-    background-color:grey;
+    background-color:rgb(180, 156, 125);
 }
-
 #title{
     color: black;
 }
@@ -66,6 +65,7 @@ body{
     border-color: rgb(243, 38, 164);
     background-color: rgb(42, 42, 119);
 }
+
 
 
 
