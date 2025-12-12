@@ -1,3 +1,7 @@
+body{
+    background-color:grey;
+}
+
 #title{
     color: black;
 }
@@ -62,6 +66,7 @@
     border-color: rgb(243, 38, 164);
     background-color: rgb(42, 42, 119);
 }
+
 
 
 
