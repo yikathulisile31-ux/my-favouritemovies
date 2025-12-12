@@ -1,5 +1,5 @@
 #title{
-    color: red;
+    color: black;
 }
 #title2{
     color: rgb(3, 67, 3);
@@ -9,7 +9,7 @@
 }
 
 #Description1{
-    color: red;
+    color: black;
 }
 
 #Description2{
@@ -20,7 +20,7 @@
 } 
 
 #Trailor1{
-    color: red;
+    color: black;
 }
 #Trailor2{
     color: rgb(3, 67, 3);
@@ -30,7 +30,7 @@
 }
 
 #Movie1{
-    color: red;
+    color: black;
 }
 #Movie2{
     color:rgb(3, 67, 3);
@@ -62,5 +62,6 @@
     border-color: rgb(243, 38, 164);
     background-color: rgb(42, 42, 119);
 }
+
 
 
