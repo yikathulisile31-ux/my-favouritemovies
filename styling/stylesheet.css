@@ -1,0 +1,65 @@
+#title{
+    color: red;
+}
+#title2{
+    color: rgb(3, 67, 3);
+}
+#title3{
+    color: rgb(243, 38, 164);
+}
+
+#Description1{
+    color: red;
+}
+
+#Description2{
+    color: rgb(3, 67, 3);
+}
+#Description3{
+    color: rgb(243, 38, 164);
+} 
+
+#Trailor1{
+    color: red;
+}
+#Trailor2{
+    color: rgb(3, 67, 3);
+}
+#Trailor3{
+    color: rgb(243, 38, 164);
+}
+
+#Movie1{
+    color: red;
+}
+#Movie2{
+    color:rgb(3, 67, 3);
+}
+    #Movie3{
+    color:rgb(243, 38, 164)
+    }
+
+#FirstOne{
+    border-width: 3px;
+    border-radius: 5px;
+    border-style: solid;
+    border-color: red;
+    background-color: blue;
+}
+
+#SecondOne{
+    border-width: 3px;
+    border-radius: 5px;
+    border-style: solid;
+    border-color:rgb(3, 67, 3);
+    background-color: rgb(183, 168, 168);
+}
+
+#ThirdOne{
+    border-width: 3px;
+    border-radius: 5px;
+    border-style: solid;
+    border-color: rgb(243, 38, 164);
+    background-color: rgb(42, 42, 119);
+}
+
